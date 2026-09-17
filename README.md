@@ -22,7 +22,7 @@
   <a href="https://github.com/Arif1Awad">
     <img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
-  <a href="[[https://www.linkedin.com/in/%D8%B9%D8%A7%D8%B1%D9%81-%D8%A7%D9%84%D8%B4%D9%85%D8%B1%D9%8A-411638380/](https://www.linkedin.com/in/arif-a-alshammari/)](https://www.linkedin.com/in/arif-a-alshammari/)">
+  <a href="https://www.linkedin.com/in/arif-a-alshammari/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:arif.awad.alshammari@gmail.com">
@@ -177,7 +177,7 @@ Whether you're working on an interesting dataset, building an AI application, or
 <p align="center">
   <a href="mailto:arif.awad.alshammari@gmail.com">Email</a>
   &nbsp;•&nbsp;
-  <a href="https://www.linkedin.com/in/%D8%B9%D8%A7%D8%B1%D9%81-%D8%A7%D9%84%D8%B4%D9%85%D8%B1%D9%8A-411638380/">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/arif-a-alshammari/">LinkedIn</a>
   &nbsp;•&nbsp;
   <a href="https://github.com/Arif1Awad">GitHub</a>
 </p>
