@@ -4,7 +4,7 @@
 
 <div align="center">
 
-# Hey, I'm Arif AwAd
+# Hey, I'm Arif Awad
 
 ### Computer Science Student · Data Science · Machine Learning · AI
 
